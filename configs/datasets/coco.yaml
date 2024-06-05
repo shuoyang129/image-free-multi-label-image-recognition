@@ -1,0 +1,9 @@
+DATASET:
+  NAME: "coco"
+  ROOT: "data/coco-2014"
+  VAL_SPLIT: "val2014"
+  TEST_SPLIT: "val2014"
+  TRAIN_SPLIT: "train2014"
+  ZS_TRAIN: ""
+  ZS_TEST: ""
+  ZS_TEST_UNSEEN: ""
